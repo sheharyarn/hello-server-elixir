@@ -1,21 +1,6 @@
-# Hello
+# Hello Server in Elixir
 
-**TODO: Add description**
+This source code is a part of my guide on using the new releases feature in Elixir v1.9 and deploying the app to Google Cloud Platform via Kubernetes.
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `hello` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:hello, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/hello](https://hexdocs.pm/hello).
+You can find the article here: https://sheharyar.me/blog/deploy-elixir-app-kubernetes-google-cloud
 
